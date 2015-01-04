@@ -1,0 +1,37 @@
+{
+  "name": "artdesign-ui",
+  "version": "1.0.0",
+  "description": "jQuery PlugIns for responsive web elements with skin support",
+  "main": "ArtDesignUI/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArtDesignCreativeStudio/artdesign-ui.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ui",
+    "web",
+    "elements",
+    "jquery",
+    "transform",
+    "button",
+    "input",
+    "textarea",
+    "radio",
+    "checkbox",
+    "select",
+    "tabs",
+    "layout",
+    "icons",
+    "artdesign"
+  ],
+  "author": "ArtDesign Creative Studio <office@artdesign-creative.com>",
+  "license": "ArtDesignCreative",
+  "bugs": {
+    "url": "http://www.artdesign-ui.com"
+  },
+  "homepage": "http://www.artdesign-ui.com"
+}
